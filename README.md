@@ -1,6 +1,6 @@
-WaifuDesk — Bring Your Favorite Characters to Life
+WaifuEngine — Bring Your Favorite Characters to Life
 
-WaifuDesk adds a cute, floating anime character to your screen on every website. Choose from 30+ animated waifus, move them anywhere, and customize your favorites.
+WaifuEngine adds a cute, floating anime character to your screen on every website. Choose from 30+ animated waifus, move them anywhere, and customize your favorites.
 
 Features
 
@@ -10,7 +10,7 @@ Features
 
 👀 Show / Hide / Run / Stop controls
 
-🎯 Draggable floating character that remembers position
+🎯 Draggable floating character
 
 🔍 Built-in search bar to find characters easily
 
